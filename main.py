@@ -25,4 +25,5 @@ analyse_marche(
     prix_actuel=105,
     support=100,
     resistance=110
-  )
+  )print("")
+print("Analyse graphique activée 📊")
